@@ -1,3 +1,0 @@
-:health,fitness:Well done!,Great photo!,Looking good!:liker/commenter
-:hiking,travel:Nice photo!,Great pic!:liker/commenter/follower
-:123456:business:jkldfsj:off
